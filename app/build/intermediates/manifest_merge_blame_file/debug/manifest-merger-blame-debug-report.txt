@@ -1,0 +1,234 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tebakulangtahunbyzeus"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:5:5-109:19
+12        android:allowBackup="true"
+12-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /home/zeus04/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@drawable/thismylogo"
+18-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:9:9-44
+19        android:label="Tebak Ulang Tahun"
+19-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:10:9-42
+20        android:roundIcon="@drawable/thismylogo"
+20-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:11:9-49
+21        android:supportsRtl="true"
+21-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:12:9-35
+22        android:theme="@style/Theme.TebakUlangTahunByZeus" >
+22-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:13:9-59
+23        <activity
+23-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:15:9-21:20
+24            android:name="com.example.tebakulangtahunbyzeus.formHasil"
+24-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:16:13-38
+25            android:exported="false" >
+25-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:17:13-37
+26            <meta-data
+26-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+27                android:name="android.app.lib_name"
+27-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+28                android:value="" />
+28-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+29        </activity>
+30        <activity
+30-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:22:9-28:20
+31            android:name="com.example.tebakulangtahunbyzeus.form10"
+31-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:23:13-35
+32            android:exported="false" >
+32-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:24:13-37
+33            <meta-data
+33-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+34                android:name="android.app.lib_name"
+34-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+35                android:value="" />
+35-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+36        </activity>
+37        <activity
+37-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:29:9-35:20
+38            android:name="com.example.tebakulangtahunbyzeus.form9"
+38-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:30:13-34
+39            android:exported="false" >
+39-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:31:13-37
+40            <meta-data
+40-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+41                android:name="android.app.lib_name"
+41-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+42                android:value="" />
+42-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+43        </activity>
+44        <activity
+44-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:36:9-42:20
+45            android:name="com.example.tebakulangtahunbyzeus.form8"
+45-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:37:13-34
+46            android:exported="false" >
+46-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:38:13-37
+47            <meta-data
+47-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+48                android:name="android.app.lib_name"
+48-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+49                android:value="" />
+49-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+50        </activity>
+51        <activity
+51-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:43:9-49:20
+52            android:name="com.example.tebakulangtahunbyzeus.form7"
+52-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:44:13-34
+53            android:exported="false" >
+53-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:45:13-37
+54            <meta-data
+54-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+55                android:name="android.app.lib_name"
+55-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+56                android:value="" />
+56-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+57        </activity>
+58        <activity
+58-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:50:9-56:20
+59            android:name="com.example.tebakulangtahunbyzeus.formbulan"
+59-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:51:13-38
+60            android:exported="false" >
+60-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:52:13-37
+61            <meta-data
+61-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+62                android:name="android.app.lib_name"
+62-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+63                android:value="" />
+63-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+64        </activity>
+65        <activity
+65-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:57:9-63:20
+66            android:name="com.example.tebakulangtahunbyzeus.form6"
+66-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:58:13-34
+67            android:exported="false" >
+67-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:59:13-37
+68            <meta-data
+68-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+69                android:name="android.app.lib_name"
+69-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+70                android:value="" />
+70-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+71        </activity>
+72        <activity
+72-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:64:9-70:20
+73            android:name="com.example.tebakulangtahunbyzeus.form5"
+73-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:65:13-34
+74            android:exported="false" >
+74-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:66:13-37
+75            <meta-data
+75-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+76                android:name="android.app.lib_name"
+76-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+77                android:value="" />
+77-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+78        </activity>
+79        <activity
+79-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:71:9-77:20
+80            android:name="com.example.tebakulangtahunbyzeus.form4"
+80-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:72:13-34
+81            android:exported="false" >
+81-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:73:13-37
+82            <meta-data
+82-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+83                android:name="android.app.lib_name"
+83-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+84                android:value="" />
+84-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+85        </activity>
+86        <activity
+86-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:78:9-84:20
+87            android:name="com.example.tebakulangtahunbyzeus.form3"
+87-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:79:13-34
+88            android:exported="false" >
+88-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:80:13-37
+89            <meta-data
+89-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+90                android:name="android.app.lib_name"
+90-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+91                android:value="" />
+91-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+92        </activity>
+93        <activity
+93-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:85:9-87:39
+94            android:name="com.example.tebakulangtahunbyzeus.MainActivity"
+94-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:86:13-41
+95            android:exported="true" />
+95-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:87:13-36
+96        <activity
+96-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:88:9-94:20
+97            android:name="com.example.tebakulangtahunbyzeus.form2"
+97-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:89:13-34
+98            android:exported="false" >
+98-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:90:13-37
+99            <meta-data
+99-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+100                android:name="android.app.lib_name"
+100-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+101                android:value="" />
+101-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+102        </activity>
+103        <activity
+103-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:95:9-108:20
+104            android:name="com.example.tebakulangtahunbyzeus.SplashScreen"
+104-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:96:13-41
+105            android:exported="true"
+105-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:97:13-36
+106            android:theme="@style/SplashScreen" >
+106-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:98:13-48
+107            <intent-filter>
+107-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:99:13-103:29
+108                <action android:name="android.intent.action.MAIN" />
+108-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:100:17-69
+108-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:100:25-66
+109
+110                <category android:name="android.intent.category.LAUNCHER" />
+110-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:102:17-77
+110-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:102:27-74
+111            </intent-filter>
+112
+113            <meta-data
+113-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:18:13-20:36
+114                android:name="android.app.lib_name"
+114-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:19:17-52
+115                android:value="" />
+115-->/home/zeus04/Documents/Code/androidproject/TebakUlangTahunbyZeus/app/src/main/AndroidManifest.xml:20:17-33
+116        </activity>
+117
+118        <provider
+118-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+119            android:name="androidx.startup.InitializationProvider"
+119-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+120            android:authorities="com.example.tebakulangtahunbyzeus.androidx-startup"
+120-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+121            android:exported="false" >
+121-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+122            <meta-data
+122-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+123                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+123-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+124                android:value="androidx.startup" />
+124-->[androidx.emoji2:emoji2:1.2.0] /home/zeus04/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+125            <meta-data
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/zeus04/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+126                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+126-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/zeus04/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+127                android:value="androidx.startup" />
+127-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/zeus04/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+128        </provider>
+129    </application>
+130
+131</manifest>

@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_tgc5.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/tgc5.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_bg5.jpg.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/bg5.jpg"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_blc4.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/blc4.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_tgc3.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/tgc3.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form4.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form4.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form8.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form8.xml"
+    },
+    {
+        "merged": "com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_thismylogo.png.flat",
+        "source": "com.example.tebakulangtahunbyzeus.app-main-31:/drawable/thismylogo.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_splash.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/splash.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_tgc1.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/tgc1.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form2.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form2.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_blc2.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/blc2.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_tgc4.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/tgc4.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form5.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form5.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form7.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form7.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_bg4.jpg.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/bg4.jpg"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form9.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form9.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_tgc2.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/tgc2.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form3.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form3.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_formbulan.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_formbulan.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_blc1.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/blc1.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/drawable_blc3.png.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/drawable/blc3.png"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form_hasil.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form_hasil.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form10.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form10.xml"
+    },
+    {
+        "merged": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-merged_res-29:/layout_activity_form6.xml.flat",
+        "source": "/home/zeus04/.gradle/daemon/7.4/com.example.tebakulangtahunbyzeus.app-main-31:/layout/activity_form6.xml"
+    }
+]
