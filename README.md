@@ -4,7 +4,7 @@
 ### why use this app
 if you want to know birthday of someone just using this app, **it works** :)
 
-### behing story
+### behind story
 I really like programming, but I confused to make project (cause I want make something different) and I remember of game of this birthday from My Teacher in junior high school. he pull out some cards then give to us and he can predict our birthday; It's awosome. so I just made it again but not with cards but put it into software. and this is my final project pratikum in term 3 using Visual Basic, then when I learned Android, just remake again in Mobile
 
 ## PREVIEW
